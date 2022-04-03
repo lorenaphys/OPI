@@ -1,3 +1,4 @@
 *.csv
 .ipynb_checkpoints/
 .~lock.carpetas_completa_febrero_2022.csv#
+/BOPS_case/
